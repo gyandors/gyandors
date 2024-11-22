@@ -1,37 +1,59 @@
-# Hi there, I'm Sachin Gyandor! 👋
+# 👋 Hi, I'm Sachin Gyandor!  
 
-### Passionate Web Developer | Frontend Enthusiast | Lifelong Learner
+Welcome to my GitHub! I am a **MERN Stack Developer** passionate about building dynamic and responsive web applications. With expertise in React, Node.js, Express.js, MongoDB, and a flair for crafting seamless user experiences, I thrive in bringing ideas to life through code.  
 
-I'm a **frontend web developer** with a strong focus on building responsive and user-friendly web applications. I’m passionate about creating seamless user experiences and writing clean, efficient code.
+---
 
-- 🌱 **Currently Learning:** Advanced React, TypeScript, and Next.js
-- 👨‍💻 **Frontend Intern at [Lunara Solutions](https://www.linkedin.com/company/lunarasolutionscorp/)**
-- 💼 **Looking for Full-Time Opportunities** in Frontend Development
-- 🎓 **Education:** BCA Graduate from Gulbarga University (2017-2020)
-- 📚 **React Course Completed:** [Udemy React Course](https://www.udemy.com/certificate/UC-eb0f2f6e-4e14-4d0e-b7f8-78b74ef80f5c/)
-- 💬 **Ask me about:** React, JavaScript, HTML/CSS, and building portfolio websites.
-- 🔧 **Tech Stack:**
-  - Languages: JavaScript (ES6+), HTML5, CSS3, TypeScript
-  - Frameworks: React.js, Next.js, TailwindCSS
-  - Tools: Git, GitHub, VS Code
-  
-### 📂 Featured Projects
-1. **[Mail Box](https://mail-box-c1237.web.app)**
-   - Developed a comprehensive mail application using React to facilitate efficient email communication.
-   - Implemented features like composing, sending, receiving, and organizing emails.
-   - Managed state using Redux and enhanced security with Firebase authentication.
-   - Designed a clean and intuitive UI with Tailwind CSS for a better user experience.
+## 🛠️ **Skills & Technologies**  
 
-2. **[Expense Tracker](https://expense-tracker-17.web.app)**
-   - Built a user-friendly expense tracker using React for managing personal finances.
-   - Features include adding, editing, and deleting expenses with real-time updates.
-   - Implemented secure user authentication and real-time database management with Firebase.
+- **Frontend:** React, Redux, HTML, CSS, JavaScript, Tailwind CSS, Next.js  
+- **Backend:** Node.js, Express.js, RESTful APIs  
+- **Databases:** MongoDB, MySQL  
+- **Others:** Firebase, AWS (currently learning deployment), Git, Version Control  
 
-### 🌐 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/gyandors) 
-- [GitHub](https://github.com/gyandors) 
-- [Email Me](mailto:gyandors@gmail.com)
+---
 
-I'm always open to collaborating on interesting projects, learning new skills, and meeting fellow developers. Feel free to explore my repositories and reach out if you want to chat or work together!
+## 📚 **Education & Certifications**  
 
-Thanks for visiting! 😊
+- **Full Stack Development (MERN Stack)** – Sharpener Tech (Sep 2023 – Aug 2024)  
+- **Bachelor of Computer Applications** – Gulbarga University (Jul 2017 – Oct 2020)  
+- **React – The Complete Guide** – Udemy (Aug 2024)  
+
+---
+
+## 🚀 **Projects**  
+
+### **1. Mail Box**  
+- A React-based email application with features like composing, organizing, and searching emails.  
+- Enhanced performance using **Redux** and secure authentication with **Firebase**.  
+
+### **2. Expense Tracker**  
+- A financial management tool to track and categorize expenses in real time.  
+- Built with React and Firebase, leveraging **Redux** for state management.  
+
+Check out more on my **[Portfolio](https://gyandors.com/)**!  
+
+---
+
+## 🌐 **Languages**  
+- **Proficient in:** Kannada, Hindi, English  
+
+---
+
+## 🌟 **Hobbies & Interests**  
+- 📸 Photography  
+- 🎮 Gaming  
+- 💻 Coding  
+- ✈️ Traveling  
+
+---
+
+## 📫 **Let’s Connect**  
+- **Portfolio:** [Link](https://gyandors.com/)  
+- **GitHub:** [Link](https://github.com/gyandors/)  
+- **LinkedIn:** [Link](https://linkedin.com/in/gyandors/)  
+
+---
+
+### Thank you for visiting! 😊  
+Feel free to explore my repositories and reach out for collaborations or opportunities!
