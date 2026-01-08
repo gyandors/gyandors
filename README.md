@@ -20,7 +20,7 @@ Welcome to my GitHub! I am a **MERN Stack Developer** passionate about building 
 - **React – The Complete Guide** – Udemy (Aug 2024)  
 
 ---
-
+<!--
 ## 🚀 **Projects**  
 
 ### **1. Mail Box**  
@@ -32,7 +32,7 @@ Welcome to my GitHub! I am a **MERN Stack Developer** passionate about building 
 - Built with React and Firebase, leveraging **Redux** for state management.  
 
 Check out more on my **[Portfolio](https://gyandors.com/)**!  
-
+-->
 ---
 
 ## 🌐 **Languages**  
@@ -49,9 +49,9 @@ Check out more on my **[Portfolio](https://gyandors.com/)**!
 ---
 
 ## 📫 **Let’s Connect**  
-- **Portfolio:** [Link](https://gyandors.com/)  
-- **GitHub:** [Link](https://github.com/gyandors/)  
-- **LinkedIn:** [Link](https://linkedin.com/in/gyandors/)  
+- **Portfolio:** [Link](https://gyandors.com)  
+- **GitHub:** [Link](https://github.com/gyandors)  
+- **LinkedIn:** [Link](https://linkedin.com/in/gyandors)  
 
 ---
 
